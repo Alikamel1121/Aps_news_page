@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "ALGER";
+    src: url(/fonts/ALGER.TTF);
+  }
+  @font-face {
+    font-family: "FRSCRIPT";
+    src: url(/fonts/FRSCRIPT.TTF);
+  }
+  @font-face {
+    font-family: "ITCBLKAD";
+    src: url(/fonts/ITCBLKAD.TTF);
+  }
+  @font-face {
+    font-family: "Badr";
+    src: url(/fonts/B\ Badr_YasDL.com.ttf);
+    font-weight: normal;
+  }
+  @font-face {
+    font-family: "Badr";
+    src: url(/fonts/B\ Badr\ Bold_YasDL.com.ttf);
+    font-weight: bold;
+  }
+  @font-face {
+    font-family: "Titr";
+    src: url(/fonts/B\ Tir_YasDL.com.ttf);
+    font-weight: normal;
+  }
+  @font-face {
+    font-family: "Titr";
+    src: url(/fonts/B\ Titr\ Bold_YasDL.com.ttf);
+    font-weight: bold;
+  }
+  @font-face {
+    font-family: "Nazanin";
+    src: url(/fonts/B\ Nazanin_YasDL.com.ttf);
+    font-weight: normal;
+  }
+  @font-face {
+    font-family: "Nazanin";
+    src: url(/fonts/B\ Nazanin\ Bold_YasDL.com.ttf);
+    font-weight: bold;
+  }
+
+  @font-face {
+    font-family: "COOPBL";
+    src: url(/fonts/COOPBL.TTF);
+  }
