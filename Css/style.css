@@ -260,7 +260,7 @@ aside {
   /* position: relative; */
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   text-align: center;
   word-wrap: break-word;
