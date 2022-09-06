@@ -260,7 +260,7 @@ aside {
   /* position: relative; */
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   text-align: center;
   word-wrap: break-word;
@@ -270,11 +270,15 @@ aside {
   font-family: "Titr";
   margin: 0;
   margin-top: 5px;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
 }
 .card-body .card-text {
   box-sizing: border-box;
   overflow: auto;
   font-family: "Nazanin";
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 .card-body .card-text::-webkit-scrollbar {
   display: none;
